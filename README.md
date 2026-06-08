@@ -12,7 +12,7 @@ Rather than relying on basic static charts, these projects leverage advanced Exc
 * **Business Use Case:** Designed for regional sales managers to track monthly revenue targets, evaluate product category profit margins, and identify underperforming sales lanes.
 * **Core Features:** Automated multi-sheet data combining via Power Query, dynamic date filtering tables, and KPI trend cards.
 * **Key Metric Uncovered:** Identified that a **4.5% margin leak** in the logistics layer was wiping out the profits of top-selling electronics.
-* **👉 [Explore the Sales Project & Files](./Sales-Dashboard/)**
+* **👉 [Explore the Sales Project & Files](./Superstore-Sales-Dashboard/)**
 
 ### 2. HR Turnover & Workforce Analytics Suite
 * **Business Use Case:** Built for HR Executives to monitor employee attrition rates, analyze salary equity across departments, and map tenure trends.
