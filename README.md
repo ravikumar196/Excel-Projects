@@ -8,7 +8,7 @@ Rather than relying on basic static charts, these projects leverage advanced Exc
 
 ## 📈 Featured Excel Dashboards
 
-### 1. Corporate Sales Performance Dashboard
+### 1. SuperStore Sales Performance Dashboard
 * **Business Use Case:** Designed for regional sales managers to track monthly revenue targets, evaluate product category profit margins, and identify underperforming sales lanes.
 * **Core Features:** Automated multi-sheet data combining via Power Query, dynamic date filtering tables, and KPI trend cards.
 * **Key Metric Uncovered:** Identified that a **4.5% margin leak** in the logistics layer was wiping out the profits of top-selling electronics.
