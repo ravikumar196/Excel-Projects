@@ -65,4 +65,4 @@ By slicing and analyzing the combined data model, I uncovered three key insights
 4. Click **Data > Refresh All** to run the automated Power Query pipelines against the bundled datasets. Use the interactive slicers on the homepage to filter by region and product line.
 
 ---
-🔗 **Return to Main Portfolio:** [@Ravikumar196](https://github.com/Ravikumar196) | Connect via **[LinkedIn] (https://www.linkedin.com/in/ravi-kumar-13b322236/)**
+🔗 **Return to Main Portfolio:** [@Ravikumar196](https://github.com/Ravikumar196) | Connect via **[LinkedIn](https://www.linkedin.com/in/ravi-kumar-13b322236/)**
