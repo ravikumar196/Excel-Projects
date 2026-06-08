@@ -41,4 +41,4 @@ Rather than relying on basic static charts, these projects leverage advanced Exc
 
 ---
 
-📬 **Let's connect!** Review my primary analytics portfolio at [@Ravikumar196](https://github.com/Ravikumar196) or message me directly on [LinkedIn](https://linkedin.com/in/your-profile-url).
+📬 **Let's connect!** Review my primary analytics portfolio at [@Ravikumar196](https://github.com/Ravikumar196) or message me directly on [LinkedIn](https://linkedin.com/in/ravi-kumar-13b322236/).
