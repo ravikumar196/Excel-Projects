@@ -51,7 +51,7 @@ The sheet includes an integrated, cross-filtering control panel panel positioned
 
 | Asset Link Description | Resource URL |
 | :--- | :--- |
-| **📁 Download Original Dataset** | [Click here to access Superstore Sales Dataset](https://community.tableau.com/s/question/0D54T00000Fm5FlSAJ/sample-superstore-sales-dataset) |
+| **📁 Download Original Dataset** | [Click here to access Superstore Sales Dataset](https://github.com/ravikumar196/Excel-Projects/blob/main/Superstore%20Sales-Dashboard/Superstore%20data.csv) |
 | **📊 Access Live Excel Dashboard View** | [Click here to open Dashboard File (Cloud Preview)](#) |
 | **🖼️ Main Dashboard Screenshot** | [View Full Dashboard Layout](https://i.ibb.co/3mN5k4n/Main-Dashboard.png) |
 | **🖼️ Geographic Map Focus View** | [View Regional State Map Chart](https://i.ibb.co/wCtNfF2/State-Wise-Map.png) |
