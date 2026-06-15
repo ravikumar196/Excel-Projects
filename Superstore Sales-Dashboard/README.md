@@ -13,7 +13,7 @@ The analytical interface is driven by dynamic Pivot Tables, interconnected Excel
 
 | Asset Link Description | Resource URL |
 | :--- | :--- |
-| 📂 **Raw Dataset** | Core transactional logs containing order dates, times, categories, and sizing | [Open CSV Dataset](https://github.com/ravikumar196/PowerBI-Projects/blob/main/Pizza-Sales-Analysis/Pizza_Sales_Data.csv) |
+| 📂 **Raw Dataset** | [Open CSV Dataset](https://github.com/ravikumar196/Excel-Projects/blob/main/Superstore%20Sales-Dashboard/Sales%20Dataset.xlsx) |
 | **📊 Excel Dashboard View** | [Click here to open Dashboard File](https://github.com/ravikumar196/Excel-Projects/blob/main/Superstore%20Sales-Dashboard/Superstore%20Sales%20Dashboard.xlsx) |
 | **🖼️ Geographic Map View** | [View Regional State Map Chart](https://github.com/ravikumar196/Excel-Projects/blob/main/Superstore%20Sales-Dashboard/Map%20chart%20screenshot%20(1).png) |
 | **🖼️ Pivot Data Tables** | [View Category Performance Extract](https://github.com/ravikumar196/Excel-Projects/blob/main/Superstore%20Sales-Dashboard/Pivot%20chart%20screenshot.png) |
