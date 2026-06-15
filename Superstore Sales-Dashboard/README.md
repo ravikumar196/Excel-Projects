@@ -61,7 +61,8 @@ Inventory revenue is distributed highly evenly across three core item pillars:
 ---
 
 ## 🔗 Return to Main Portfolio
-* 🏠 **[Back to Data Analytics Portfolio](https://github.com/yourusername)**
+* 🏠 **[Back to Data Analytics Portfolio](https://github.com/Ravikumar196)**
 
 ### 🤝 Connect with Me
-* 👔 **[LinkedIn Connection Link](https://linkedin.com/in/yourusername)**
+* 👔 **[LinkedIn](https://www.linkedin.com/in/ravi-kumar-13b322236/)**
+* 💻 **[GitHub](https://github.com/Ravikumar196)**
